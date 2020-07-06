@@ -1,0 +1,11 @@
+C:\Users\Snakeman\Desktop\Color_Chart\bin\Debug\Color_Chart.exe.config
+C:\Users\Snakeman\Desktop\Color_Chart\bin\Debug\Color_Chart.exe
+C:\Users\Snakeman\Desktop\Color_Chart\bin\Debug\Color_Chart.pdb
+C:\Users\Snakeman\Desktop\Color_Chart\bin\Debug\Color_Chart.xml
+C:\Users\Snakeman\Desktop\Color_Chart\obj\Debug\Color_Chart.MainForm.resources
+C:\Users\Snakeman\Desktop\Color_Chart\obj\Debug\Color_Chart.Resources.resources
+C:\Users\Snakeman\Desktop\Color_Chart\obj\Debug\Color_Chart.vbproj.GenerateResource.Cache
+C:\Users\Snakeman\Desktop\Color_Chart\obj\Debug\Color_Chart.exe
+C:\Users\Snakeman\Desktop\Color_Chart\obj\Debug\Color_Chart.xml
+C:\Users\Snakeman\Desktop\Color_Chart\obj\Debug\Color_Chart.pdb
+C:\Users\Snakeman\Desktop\Color_Chart\obj\Debug\Color_Chart.vbprojResolveAssemblyReference.cache
