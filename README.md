@@ -1,3 +1,3 @@
-# color_chart
+# color-chart
 
 ![title](pic_app.PNG)
